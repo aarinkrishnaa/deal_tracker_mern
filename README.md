@@ -26,10 +26,10 @@ A comprehensive React web application for managing broker deals, suppliers, buye
 
 ```bash
 # Clone the repository
-git clone https://github.com/aarinkrishnaa/deal-tracker.git
+git clone https://github.com/aarinkrishnaa/deal_tracker_mern.git
 
 # Navigate to project directory
-cd deal-tracker
+cd deal_tracker_mern
 
 # Install dependencies
 npm install
